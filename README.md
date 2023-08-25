@@ -1,1 +1,1 @@
-# chistiy_list
+https://github.com/Haelrail/chistiy_list.git
